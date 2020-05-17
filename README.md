@@ -61,3 +61,12 @@ If you are unable to get the No Internet page, open a new tab and type chrome://
 # How to Reset Dino:
 
 * Just refresh the page
+
+
+
+**Do Follow Me on:**
+* [Instagram](https://www.instagram.com/am.shashank)
+* [LinkedIn](https://www.linkedin.com/in/am-shashank/)
+* [Facebook](https://www.facebook.com/me.shashank/)
+* [Github](https://www.github.com/amshashank)
+
