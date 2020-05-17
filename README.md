@@ -11,6 +11,11 @@ If you are unable to get the No Internet page, open a new tab and type chrome://
 * **Alt:** Pause
 * The game enters a black background mode after every multiple of 700 points for the next 100 points.
 
+
+![Chrome Dino Game Preview](Gif/chromeDino.gif)
+
+
+
 # Open Chrome Console
 * Make sure you are on the **No Internet Connection** page.
 * Right click anywhere on the page and select **Inspect** **f12** on windows.
