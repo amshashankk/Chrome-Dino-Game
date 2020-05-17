@@ -58,11 +58,6 @@ If you are unable to get the No Internet page, open a new tab and type chrome://
 
  `Runner.instance_.tRex.setJumpVelocity(10)`
 
+# How to Reset Dino:
 
-
- 
-
-
-
-
-
+* Just refresh the page
